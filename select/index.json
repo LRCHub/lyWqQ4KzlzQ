@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Cheri Cheri Lady",
+  "base_artist": "Modern Talking",
+  "createdAt": "2025-12-14T21:25:10.633606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/01_Cheri_Cheri_Lady_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/02_Cheri_Cheri_Lady_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cheri, Cheri Lady",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/03_Cheri,_Cheri_Lady_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/04_Cheri_Cheri_Lady_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady (New Version)",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/05_Cheri_Cheri_Lady_(New_Version)_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/06_Cheri_Cheri_Lady_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cheri, Cheri Lady",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/07_Cheri,_Cheri_Lady_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady",
+      "artist": "Helion feat. SUD & Mike Emilio",
+      "has_synced": true,
+      "path": "select/08_Cheri_Cheri_Lady_Helion_feat._SUD_&_Mike_Emilio.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady",
+      "artist": "Helion",
+      "has_synced": true,
+      "path": "select/09_Cheri_Cheri_Lady_Helion.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/10_Cheri_Cheri_Lady_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady (Remastered)",
+      "artist": "Modern Talking",
+      "has_synced": false,
+      "path": "select/11_Cheri_Cheri_Lady_(Remastered)_Modern_Talking.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/12_Cheri_Cheri_Lady_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady",
+      "artist": "Helion, Sud, Mike Emilio, loafers",
+      "has_synced": true,
+      "path": "select/13_Cheri_Cheri_Lady_Helion,_Sud,_Mike_Emilio,_loafers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady - New Version 2017",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/14_Cheri_Cheri_Lady_-_New_Version_2017_Modern_Talking.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cheri Cheri Lady",
+      "artist": "Modern Talking",
+      "has_synced": false,
+      "path": "select/pl_01_Cheri_Cheri_Lady_Modern_Talking.txt"
+    }
+  ]
+}
